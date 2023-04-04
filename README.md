@@ -1,7 +1,7 @@
 ### Hi welcome, I'm HYEJEONG LEE ✨
 안녕하세요 DevOps Engineer 지망생 이혜정입니다 !!
 
-#### 😸 Skills
+#### 🥕 Skills
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
