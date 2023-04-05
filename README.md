@@ -13,7 +13,7 @@
 <br>
 ### 🥕 About ME
 
-<a href="mailto:gpwjd0221@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="mailto:gpwjd0221@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gpwjd0221@gmail.com-EA4335?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="https://for-your-entertainment.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B68?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 
 <!--
