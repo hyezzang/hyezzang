@@ -1,5 +1,4 @@
-# ✨ Hi welcome, I'm HYEJEONG LEE ✨
-안녕하세요'◡' DevOps Engineer 지망생 이혜정입니다 !!
+# ✨ Hi welcome, ✨
 <br>
 <br>
 ### 🥕 Skills
